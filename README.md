@@ -3,9 +3,9 @@
 Hi! Welcome to my GitHub! I'm Joey, a second-year Web Programming & Database Development student at Dunwoody College of Technology and lifelong learner.
 
 ## Projects/Repos
-- https://github.com/joey-augustin/Java-Fantasy.Creatures.App
-- https://github.com/joey-augustin/UI.UX-Manna.Coffee.Cart
-- https://github.com/joey-augustin/SQL-Sushi.Bar
+- https://github.com/joey-augustin/Java.Fantasy.Creatures.App
+- https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart
+- https://github.com/joey-augustin/SQL.Sushi.Bar
   
 ## Skills
 - Databases: SQL Server, MySQL, MongoDB, Neo4j
