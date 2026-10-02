@@ -1,14 +1,25 @@
 # Joey Augustin
 
-Hi! Welcome to my GitHub! I'm Joey, a first-year Web Programming & Database Development student at Dunwoody College of Technology and lifelong learner.
+Hi! Welcome to my GitHub! I'm Joey, a second-year Web Programming & Database Development student at Dunwoody College of Technology and lifelong learner.
 
-## Skills
-- Languages: C#, Java, HTML, CSS, JavaScript, Python
-- Frameworks: SQL, .NET, Figma
-- Areas of Interest: Front-End Development, UI/UX Design & Research, Database Development
-  
 ## Projects/Repos
+- https://github.com/joey-augustin/Java-Fantasy.Creatures.App
+- https://github.com/joey-augustin/UI.UX-Manna.Coffee.Cart
+- https://github.com/joey-augustin/SQL-Sushi.Bar
+  
+## Skills
+- Databases: SQL Server, MySQL, MongoDB, Neo4j
+- Languages: SQL, Java, Python, C#, JavaScript
+- Analytics: Excel, Power BI
+- Design: Figma
 
+## Areas of Interest
+- Database Development
+- Data Analytics
+- Front-End Development
+- UI/UX Design & Research
+  
 ## Connect with me!
 - LinkedIn: https://www.linkedin.com/in/joey-augustin/
-- Email: augjosk@dunwoody.edu
+- Personal Email: joey.augie@gmail.com
+- School Email: augjosk@dunwoody.edu
