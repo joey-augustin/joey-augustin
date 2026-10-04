@@ -4,7 +4,8 @@ Hi! Welcome to my GitHub! I'm Joey, a second-year Web Programming & Database Dev
 
 ## Projects/Repos
 - https://github.com/joey-augustin/Java.Fantasy.Creatures.App
-    Built a Java app with an abstract class hierarchy, file persistence, and JUnit 5 tests to manage fantasy creatures.
+
+  Built a Java app with an abstract class hierarchy, file persistence, and JUnit 5 tests to manage fantasy creatures.
 - https://github.com/joey-augustin/SSMS.Driving.Range
     Modeled and built a relational database for a fictional driving range business using SQL Server and ERDs. 
 - https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart
