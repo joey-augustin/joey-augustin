@@ -10,7 +10,7 @@ Hi! Welcome to my GitHub! I'm Joey, a second-year Web Programming & Database Dev
 - https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart
   Designed a high-fidelity website with Figma, focusing on website prototyping and the design process.
 - https://github.com/joey-augustin/SQL.Sushi.Bar
-  Built a normalized relational schema with primary and foreign keys and constraints to model orders, menu items, customers.
+  Built a normalized relational schema with primary and foreign keys and constraints to model orders, menu items, and customers.
 - https://github.com/joey-augustin/Rest.API.Simple.Book.Service
   Built a REST API with full CRUD operations and HTTP status codes for managing book records. 
   
