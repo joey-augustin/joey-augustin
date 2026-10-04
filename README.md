@@ -4,6 +4,7 @@ Hi! Welcome to my GitHub! I'm Joey, a second-year Web Programming & Database Dev
 
 ## Projects/Repos
 - https://github.com/joey-augustin/Java.Fantasy.Creatures.App
+- https://github.com/joey-augustin/SSMS.Driving.Range
 - https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart
 - https://github.com/joey-augustin/SQL.Sushi.Bar
   
