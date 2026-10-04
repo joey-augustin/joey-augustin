@@ -7,6 +7,7 @@ Hi! Welcome to my GitHub! I'm Joey, a second-year Web Programming & Database Dev
 - https://github.com/joey-augustin/SSMS.Driving.Range
 - https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart
 - https://github.com/joey-augustin/SQL.Sushi.Bar
+- https://github.com/joey-augustin/Rest.API.Simple.Book.Service
   
 ## Skills
 - Databases: SQL Server, MySQL, MongoDB, Neo4j
