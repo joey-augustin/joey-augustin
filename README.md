@@ -1,5 +1,8 @@
 <h1 align="center">Joey Augustin</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=480&lines=Hi!+I'm+Joey+%F0%9F%91%8B;Database+Development;Data+Analytics;Always+learning" alt="Typing animation">
+</p>
+<p align="center">
   <b>Second-year Web Programming & Database Development student at Dunwoody College of Technology</b><br>
 </p> 
 
