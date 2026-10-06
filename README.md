@@ -1,4 +1,5 @@
 <h1 align="center">Joey Augustin</h1>
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Joey%20Augustin&fontSize=40&animation=twinkling)
 </p>
 <p align="center">
   <b>Second-year Web Programming & Database Development student at Dunwoody College of Technology</b><br>
