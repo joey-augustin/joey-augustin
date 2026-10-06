@@ -1,8 +1,7 @@
 <h1 align="center">Joey Augustin</h1>
 <p align="center">
-  <b>Database Development • Data Analytics • Front-End</b><br>
-  Second-year Web Programming & Database Development student at Dunwoody College of Technology
-</p>
+  <b>Second-year Web Programming & Database Development student at Dunwoody College of Technology</b><br>
+</p> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joey-augustin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
