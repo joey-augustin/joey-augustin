@@ -40,7 +40,7 @@ Hi! I'm Joey, a lifelong learner building skills in database design, analytics, 
 | [**Fantasy Creatures App**](https://github.com/joey-augustin/Java.Fantasy.Creatures.App) | Abstract class hierarchy, file persistence, and JUnit 5 tests to manage fantasy creatures | Java, JUnit 5 |
 | [**Driving Range Database**](https://github.com/joey-augustin/SSMS.Driving.Range) | Relational database and ERDs for a fictional driving range business | SQL Server |
 | [**Manna Coffee Cart**](https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart) | High-fidelity website design focused on prototyping and the design process | Figma |
-| [**Sushi Bar Database**](https://github.com/joey-augustin/SQL.Sushi.Bar) | Normalized schema with keys and constraints modeling orders, menu items, and customers | SQL Server |
+| [**Sushi Bar Database**](https://github.com/joey-augustin/SQL.Sushi.Bar) | Normalized schema with keys and constraints modeling orders, menu items, and customers | MySQL |
 | [**Book Service API**](https://github.com/joey-augustin/Rest.API.Simple.Book.Service) | REST API with full CRUD and HTTP status codes for managing book records | Java, Spring |
 
 ## 🎯 Areas of Interest
