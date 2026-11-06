@@ -38,7 +38,7 @@ Hi! I'm Joey, a lifelong learner building skills in database design, analytics, 
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**Book Service Frontend**](https://github.com/joey-augustin/Book.Service.Frontend) | A React front end for a book service that lets users browse a catalog of books and add, edit, and manage titles, authors, and prices through a validated form. | JSX, CSS, React |
+| [**Books-R-Us**](https://github.com/joey-augustin/Books-R-Us-Docker) | Containerized book service that runs a frontend and a Spring REST API together with Docker Compose, with a GitHub Actions CI pipeline that builds and tests the backend | Java, Spring Boot, Gradle, Docker, GitHub Actions |
 | [**Fantasy Creatures App**](https://github.com/joey-augustin/Java.Fantasy.Creatures.App) | Abstract class hierarchy, file persistence, and JUnit 5 tests to manage fantasy creatures | Java, JUnit 5 |
 | [**Driving Range Database**](https://github.com/joey-augustin/SSMS.Driving.Range) | Relational database and ERDs for a fictional driving range business | SQL Server |
 | [**Manna Coffee Cart**](https://github.com/joey-augustin/UI.UX.Manna.Coffee.Cart) | High-fidelity website design focused on prototyping and the design process | Figma |
